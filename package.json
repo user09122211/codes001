@@ -1,0 +1,12 @@
+{
+  "name": "simple-packages-published",
+  "version": "1.0.0",
+  "description": "A simple npm package with basic math utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["math", "utilities", "add", "subtract"],
+  "author": "",
+  "license": "ISC"
+}
