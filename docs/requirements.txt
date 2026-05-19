@@ -1,0 +1,14 @@
+# IPTV Documentation Build Requirements
+
+# Sphinx documentation generator
+Sphinx>=7.0.0
+
+# Read the Docs theme
+sphinx-rtd-theme>=2.0.0
+
+# Sphinx extensions for better documentation
+sphinx-autodoc-typehints>=2.0.0
+myst-parser>=2.0.0
+
+# For HTTP API documentation
+sphinxcontrib-httpdomain>=1.8.0
